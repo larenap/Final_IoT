@@ -4,7 +4,9 @@ Repositório para o trabalho final de IoT
 Os arquivos nesse diretório consistem em:
 
 1-Biblioteca necessária para a implementação do arquivo "Final.ino"
+
 2-Arquivo "Final.ino" contendo a implementação do trabalho para um ESP8266
+
 3-Arquivo "Final.json" contendo a aplicação node-red
 
 
